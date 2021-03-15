@@ -1,0 +1,7 @@
+div{
+    background: #afb59f;
+    position: sticky;
+    border: 1px solid black;
+    top: 5px;
+    font-size: 25px;    
+}
